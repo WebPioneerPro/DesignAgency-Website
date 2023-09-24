@@ -25,9 +25,3 @@ Feel free to explore the HTML and CSS code to understand how the design and layo
 - `assets/images/`: A directory containing images used in the project.
 - `README.md`: This file providing an overview of the project.
 
-## Usage
-
-To view the project locally, simply clone this repository to your computer and open the `index.html` file in a web browser.
-
-```bash
-git clone https://github.com/WebPioneerPro/DesignAgency-Website.git
